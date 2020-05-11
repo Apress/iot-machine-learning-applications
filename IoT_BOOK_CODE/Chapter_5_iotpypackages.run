@@ -1,0 +1,10 @@
+python -c "import tkinter" &> tkinter.out
+python -c "import gpiozero" &> gpiozero.out
+python -c "import smtplib" &> smtplib.out
+python -c "import pygame" &> pygame.out
+python -c "import psutil" &> psutil.out
+python -c "import platform" &> platform.out
+python -c "import time" &> time.out
+
+
+

@@ -1,0 +1,8 @@
+#Author Puneet Mathur
+#Free to distribute with this header
+# https://www.pmauthor.com/raspbian/
+
+
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install sqlite3

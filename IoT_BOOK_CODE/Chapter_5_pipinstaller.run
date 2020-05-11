@@ -1,0 +1,20 @@
+#Author Puneet Mathur
+#Free to distribute with this header
+# https://www.pmauthor.com/raspbian/
+
+
+sudo pip install numpy | tee /home/pi/numpy.log
+
+sudo pip install pandas | tee /home/pi/pandas.log
+
+sudo pip install seaborn | tee /home/pi/seaborn.log
+
+sudo pip install sklearn | tee /home/pi/sklearn.log
+
+sudo pip install tkinter | tee /home/pi/tkinter.log
+
+sudo pip install scipy | tee /home/pi/scipy.log
+
+sudo pip install nltk | tee /home/pi/nltk.log
+
+sudo pip install statsmodels | tee /home/pi/statsmodels.log

@@ -1,0 +1,10 @@
+#Author Puneet Mathur
+#Free to distribute with this header
+# https://www.pmauthor.com/raspbian/
+
+
+sudo apt-get install python3
+
+
+sudo apt-get install python3-thonny
+
